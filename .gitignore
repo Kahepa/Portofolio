@@ -1,1 +1,13 @@
 .DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+dist/
+out/
+build/
+
+# Ignore IDE files
+.vscode/
+.idea/
